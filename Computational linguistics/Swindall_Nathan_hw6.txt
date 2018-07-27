@@ -1,0 +1,57 @@
+# Name: Nathan Swindall
+# Ut EID: Nts279
+
+#########
+# Problem 1:
+a)#3
+b)#11
+c)#1
+d)#5
+e)#11
+f)#3
+g)#7
+h)#11
+i)#4
+j)#5
+
+For sentence "a" I had a hard time identifying which sense it was. I could not definitively nail it down to one choice. I was jumbling a few sense in my head for this sentence which were sense # 3, 6, and 7. I finally settled on sense #7 because I feel that "questions with which committee members taunted bankers appearing as witnesses" definitely produced the result of there being little doubt. It was tricky to nail down because I feel that these questions could have caused the specific state of little doubt, and thus lead to sense # 3.
+
+For sentence "b" I felt like it had the sense that New York was left with only the Yankees, like a remainder after a math problem.
+
+For sentence "c" I eventually chose sense #1 because it was just focusing on the leaving part and not leaving from a specific place. Like "when I move onto better things" kind of sense. I struggled narrowing it down to sense #1 though because I also felt that it could have been sense # 8 because he would be dissociating himself from the coach. 
+
+For sentence “d” I felt it was sense #5 because they were departing out of a certain place. 
+
+For sentence “e” I felt it was sense #11 because we are talking about the remainder of something. I also thought it could be sense # 7 but then decided against it because I did not think that the house being swept so clean is directly related to the verb leave in this sentence. 
+
+For sentence “f” I felt confidently that it was sense #3 because something is becoming a specific state. 
+
+For sentence “g” I felt it was sense # 7 because “some experiences vanish so completely” is what directly produces that absence of a trace on the sleeper’s mind. It is the direct result. 
+
+For sentence “h” I am pretty confident that it is sense # 11 because it is talking about the remainder of what something has left. This person has no one left. 
+
+For sentence “i” I thought it was sense # 4 because he is left in an unchanged/undisturbed state.
+
+For sentence “j” I thought it was sense # 5 because it departing from the play. I originally thought it sense # 1 but it seems like that sense is more about the intransitive nature of leaving while sense # 5 seems to require the object they are departing from. 
+
+It seems like I would often confuse sense # 1 and 5 because they seem very similar. I would pick five it had the sense of departing from a specific thing like in the play example. I would choose sense #1 when it did not have the sense of moving away from a specific object, but just moving away in a general sense. 
+
+Then I also had trouble dealing with sense #3, 6, 7. It seemed that all these produced something. The way I dealt with this is if the verb had a sense of is if the object being acted on was directly affected by another object then it is sense #7. If it is indirectly acted on it is sense # 3. If something opened up or hinder possibilities I would pick sense #6. 
+
+#########
+# Problem 2:
+
+
+P(removing) = 2/16 = 1/8 ( there are sixteen senses and two of them are removing)
+P(day|Reading) = 3/8 (there are eight senses of reading and three of them have the feature day)
+P(reading)P(paper|Reading)P(surface|Reading)P(towards|Reading)=
+.5*.5*0*0=0 
+P(Removing)P(paper|removing)P(surface|removing)P(towards|removing)= 1/8*.5*.5*0= 0
+P(self_motion)P(paper|self_motion)P(surface|self_motion)P(towards|self_motion) = .6*1/6*1/3*1/6=.0056
+
+The most likely sense for this word is self_motion
+
+
+
+
+
